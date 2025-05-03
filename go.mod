@@ -1,10 +1,10 @@
 module git.woa.com/kf_cdms/go-public
 
-go 1.21.4
+go 1.23
 
 require (
 	github.com/ghodss/yaml v1.0.0
-	github.com/spf13/cast v1.6.0
+	github.com/spf13/cast v1.8.0
 )
 
 require (
